@@ -1,0 +1,2 @@
+rootProject.name = "Criacao de Layout"
+include ':app'
